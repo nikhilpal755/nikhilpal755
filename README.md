@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilpal755&theme=solarized_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilpal755&theme=solarized_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilpal755&theme=solarized_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilpal755&theme=solarized_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilpal755&theme=solarized_dark&utcOffset=8)
