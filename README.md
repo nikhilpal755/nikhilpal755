@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play with code everyday
 
 
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilpal755&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## Connect with me on
 <a href="https://www.linkedin.com/in/nikhil-pal-a758471b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width:100%;"></a> <a href="https://github.com/nikhilpal755"><img src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width:100%;"></a>
 
