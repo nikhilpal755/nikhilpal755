@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Nikhil 👋
 
 ## I am a Full Stack Web Developer, Competitive Programmer (4🌟 Codechef), and a student at Panjab University (2019-23)
 
