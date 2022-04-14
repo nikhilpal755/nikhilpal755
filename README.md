@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?color=blue&username=nikhilpal755&count_private=true&show_icons=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpal755&layout=compact&count_private=true&show_icons=true&theme=algolia&langs_count=10&include_all_commits=true" />
-
+</div>
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning new skills.
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play with code everyday
 
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nikhilpal755&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nikhilpal755&theme=dark&hide_border=true&area=true" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
