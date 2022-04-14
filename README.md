@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I like to play with code everyday
 
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nikhilpal755&theme=react-dark&hide_border=true&area=true" />
+<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
+</div> 
 
 ## Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilpal755&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
