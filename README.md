@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play with code everyday
 
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nikhilpal755&theme=react_dark&hide_border=true&area=true" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nikhilpal755&theme=react-dark&hide_border=true&area=true" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
